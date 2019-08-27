@@ -163,5 +163,33 @@
         }
         ]
         }
-        }
+        },
+    "cancellationReason":{ 
+   "status":{ 
+      "message":"success",
+      "code":"200"
+   },
+   "data":[ 
+            { 
+            "value":"06",
+            "name":"Shipping Delay Expected"
+            },
+            { 
+            "value":"07",
+            "name":"Incorrect Entry of Items/Price"
+            },
+            { 
+            "value":"08",
+            "name":"Item Out of stock"
+            },
+            { 
+            "value":"09",
+            "name":"Option out of stock"
+            },
+            { 
+            "value":"99",
+            "name":"Other(Seller's fault)"
+            }
+        ]
+}
 }
