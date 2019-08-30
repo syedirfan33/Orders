@@ -201,6 +201,5 @@
        "message": "Success",
        "code": "200"
    }
-},
-    "validate":{"status": "OK","code": 200}
+}
 }
